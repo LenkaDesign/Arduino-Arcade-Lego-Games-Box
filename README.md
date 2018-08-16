@@ -4,6 +4,10 @@ Classic Arcade Games Collection in the Arduino Lego Box with BIG buttons.
 Step by step instructions
 https://www.instructables.com/id/Arduino-Arcade-Lego-Games-Box/
 
+### HOW-TO MAKE: Arduino Arcade Lego Games Box
+[![Arduino Arcade Lego Games Box](https://img.youtube.com/vi/k_Zlcp0_hjg/0.jpg)](https://youtu.be/k_Zlcp0_hjg "
+Arduino Arcade Lego Games Box")
+
 ### VIDEO DEMO: Arduino Arcade Lego Games Box
 [![Arduino Arcade Lego Games Box](https://img.youtube.com/vi/eVfzene-zvs/0.jpg)](https://youtu.be/eVfzene-zvs "
 Arduino Arcade Lego Games Box")
